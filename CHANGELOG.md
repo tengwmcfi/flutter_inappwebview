@@ -1,3 +1,7 @@
+## 5.7.2+4
+
+- Fixed Xcode 16 `error: method does not override any method from its superclass`
+
 ## 5.7.2+3
 
 - Fixed "Xiaomi store - Conflict of Privacy Permissions, android.permission.MY_READ_INSTALLED_PACKAGES" [#1462](https://github.com/pichillilorenzo/flutter_inappwebview/issues/1462)
