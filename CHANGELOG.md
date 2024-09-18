@@ -1,3 +1,7 @@
+## 5.8.1
+
+- Fixed Xcode 16 `error: method does not override any method from its superclass`
+
 ## 5.8.0
 
 - Merged "fix: xcode 15 related bug" [#1790](https://github.com/pichillilorenzo/flutter_inappwebview/pull/1790) (thanks to [nesquikm](https://github.com/nesquikm))
